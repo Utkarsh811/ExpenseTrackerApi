@@ -1,0 +1,8 @@
+{
+    "id":1,
+    "category":"Grocery",
+    "expenseAmount":"231",
+    "description":"Expenditure amount",
+  
+
+}
